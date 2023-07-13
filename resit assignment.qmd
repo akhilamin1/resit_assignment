@@ -1,0 +1,273 @@
+---
+title: "Resit q assignment"
+format: html
+editor: visual
+---
+
+# Quattro assignment
+
+# 2023-07-13
+
+## Introduction
+
+In order to properly tackle the COVID-19 epidemic, it is important to comprehend the problem and examine how other countries have responded. This paper focuses on comparing Ireland's COVID-19 position to those of nine other nations.
+
+An important instrument for evaluating the success of public health initiatives and policy changes made in response to the crisis is the comparative study of the COVID-19 pandemic in Ireland and 9 other countries. We may learn more about the advantages and disadvantages of various tactics by looking at data patterns, immunization rates, and testing methods. This analysis intends to assist in controlling the continuing epidemic globally and to help guide future decision-making. Along with the other chosen nations, Ireland has had particular difficulties throughout the epidemic. For each country, this report will give a thorough review of the major variables, including total cases, total fatalities, testing rates, and immunization progress. We can find parallels, discrepancies, and probable causes affecting the results by contrasting various measurements.
+
+A captivating story will be presented in the Quarto Report paper, backed by visualizations that show the trends and patterns in the COVID-19 data. The sequence of events, policy changes, and their effects on the pandemic's course in Ireland and other nations will all be covered in detail in the study. With the help of this study, we want to further knowledge of the COVID-19 situation, offer insightful information to policymakers, and aid in the facilitation of well-informed choices in the current pandemic response.
+
+Aim & Objectives Aim
+
+The main aim of this research is to compare Ireland's COVID-19 status with that of nine other nations using the available datasheets in order to learn more about how well public health initiatives and policy interventions are working to control the pandemic.
+
+Objectives
+
+To find parallels and differences, examine the trends in the number of COVID-19 cases, fatalities, and testing rates in Ireland and other countries.
+
+To analyze the overall vaccinations, vaccination rates, and coverage in Ireland and the comparative countries to assess the effectiveness of immunization efforts.
+
+To analyze the success of the legislative changes and public health initiatives that Ireland and the comparative nations have made in preventing the virus's spread.
+
+To make suggestions for the next pandemic response tactics based on the results and understandings from the comparative study.
+
+Background
+
+The new Covid SARS-CoV-2 that set off the Coronavirus pandemic has arisen as one of the main worldwide well-being disasters in late memory. The infection has quickly crossed global lines since it originally arose in Wuhan, China, in late 2019. It has now tainted a large number of people and upset networks everywhere (Basak et al. 2022). Legislatures, clinical establishments, and analysts have increased their determination to appreciate the infection, screen its spread, and make productive countermeasures.
+
+This study centers around contrasting Ireland's situation with that of nine different countries during the Coronavirus plague. To control the infection's spread and safeguard the general's well-being, Ireland, in the same way as other different nations, has needed to defeat different hindrances (Zuhanda et al. 2023). All desire to look further into the viability of different general well-being drives, strategy changes, and pandemic reaction plans utilized by Ireland and the picked countries by playing out a near examination.
+
+The correlation of Ireland and different countries looks to feature significant patterns and factors that have molded the pandemic's direction (Radanliev et al. 2022). Clients can detect patterns in the pandemic's belongings by dissecting designs in cases, fatalities, testing rates, and antibody advancement. This study will likewise make it conceivable to evaluate general well-being drives and strategy changes as far as how well they work to stop the infection's spread and reduce its belongings.
+
+It is fundamental to fathom how Ireland's encounters contrast with those of different countries to plan arrangements and settle on choices that are upheld by realities. It offers an opportunity to concentrate on viable strategies utilized abroad and pinpoint potential regions where Ireland's pandemic reaction might be fortified (Chaerani et al.2023). By considering the particular characteristics of every country, for example, its financial cosmetics and medical care framework, we might foster an intensive handle on the factors that influence the pandemic's course.
+
+The target of this study is to introduce a far-reaching examination of the Corona virus circumstance in Ireland and the other tantamount countries. We can track down patterns, examples, and associations through information investigation and perception, which assists us with fathoming the pandemic's belongings better (Okolie et al. 2022). The discoveries won't just further comprehension we might interpret Corona virus however will likewise help lawmakers, clinical experts, and general well-being specialists foster future reaction plans.
+
+Engineers can deliver huge bits of knowledge that help proof-based navigation by utilizing accessible information and using solid systematic instruments. The goal is to help worldwide endeavors in controlling the ongoing scourge, propelling general well-being, and guaranteeing the government assistance of individuals and networks (Zuhanda et al. 2022). In this review, the Corona virus pandemic in Ireland and nine different countries will be looked at and broken down. designers trust that our examination will assist with illuminating future independent direction by surveying the adequacy of strategy intercessions, pandemic reaction procedures, and general well-being drives (Yilmaz et al. 2022). Analysts might progress worldwide information and further develop status for impending well-being crises by appreciating explicit realities and encounters of every country.
+
+Method This comparative analysis of the COVID-19 pandemic in Ireland and nine other countries was conducted using a technique that includes the gathering of data, maltreatment of the data, exploratory data analysis, and visualization. The approach taken for this project is described in the following:
+
+Data collection: "country_data.csv" and "country_metadata.csv" are the two main data sets utilized for this investigation. These files include crucial details on COVID-19 parameters, including total cases, total fatalities, testing rates, immunization progress, and more statistics for each nation.
+
+Data reprocessing: To guarantee consistency and compatibility for analysis, the data from the data sets are reprocessed. To include the COVID-19 metrics with extra nation metadata, this entails managing missing values, switching data types as necessary, and combining pertinent records.
+
+Exploratory Data Analysis (EDA): EDA is carried out to understand the traits and trends of the data. The distribution of COVID-19 metrics is investigated, outlines are identified, and temporal patterns are explored using descriptive statistics, data summaries, and visualizations. EDA lays the groundwork for additional research and aids in revealing links between variables (Del Riccio et al. 2022).
+
+Comparative Analysis: The comparative analysis compares Ireland's COVID-19 status to those of the other nine chosen nations. Key metrics are analyzed and compared between nations, including total cases, total fatalities, testing rates, and immunization progress. To emphasize similarities, contrasts, and trends, statistical measurements and visualizations such as bar charts, line graphs, and scatter plots are used.
+
+Evaluation of Public Health Interventions and Policy Measures: The study determines if public health interventions and policy measures carried out in Ireland and other nations are successful. This entails looking at the progression of events, policy changes, and their possible effects on the pandemic's course. Comparative analysis makes it possible to pinpoint winning tactics and takeaways from various nations' methods (Bull-Otterson et al. 2022).
+
+Visualizations: In this analysis, visualizations are essential for successfully communicating information and improving data interpretation. We use a variety of visualizations to show trends, comparisons, and correlations across COVID-19 indicators, including bar charts, line graphs, scatter plots, and heatmaps. These graphic depictions make it easier to spot trends, outliers, and connections in the data.
+
+Conclusion and Interpretation: In order to reach meaningful conclusions, the results of the comparison analysis and visualizations are interpreted. The analysis's objectives are to provide light on the COVID-19 situation in Ireland and the chosen nations, assess the efficacy of response plans, and pinpoint areas in need of improvement (Oh et al. 2022). On the basis of the analysis and interpretation of the findings, recommendations for future pandemic response tactics are developed.
+
+It is crucial to remember that the technique presented here acts as the project's overarching framework. Depending on the study topics, the availability of the data, and the analytically tools utilized, different methodologies, algorithms, and visualizations may be used (Lan et al. 2022). For reliable and significant findings, rigorous statistical analysis and visualization approaches are used.
+
+By using this technique, developers want to carry out a thorough comparison study that offers insightful information about the COVID-19 epidemic in Ireland and the chosen nations. The technique promotes decision-making for public health authorities and policymakers that is based on evidence, assures the systematic analysis of data, and allows for effective data exploration and interpretation.
+
+Data collection, reprocessing, exploratory data analysis, comparison analysis, assessment of interventions, and visualizations make up the approach for this project (Raya-González et al. 2022). Through the use of a strict approach, researchers want to contribute to the global knowledge base and facilitate well-informed decision-making on pandemic response tactics by offering a thorough grasp of the COVID-19 situation in Ireland and the chosen countries.
+
+```{r}
+library("readxl")
+```
+
+```{r}
+data <- read.csv("./country_data.csv")
+data
+```
+
+Data import
+
+The given code loads R's "readxl" package, which is frequently used to read Excel files. After that, an Excel file called "country_data.xlsx" stored at "C:/dataset/" is read using the method read_excel(). The R environment reads the file and stores it in the data object. The data included in the Excel file may now be accessed for additional R analysis and manipulation. To properly read the Excel file, make sure the file path and name are correct. To inspect the contents of the Excel file, examine the generated data object.
+
+```{r}
+library(dplyr)
+```
+
+```{r}
+filtered_data <- data %>%
+ filter(continent == "Asia", date >= "2023-01-01")
+selected_data <- filtered_data %>%
+  select(location, total_cases, total_deaths)  
+```
+
+```{r}
+summary(data)
+```
+
+```{r}
+
+selected_data <- data %>%
+  select(location, total_cases, total_deaths,iso_code)  # Select specific columns: location, total_cases, total_deaths
+
+clean_data <- selected_data[!is.na(selected_data$total_deaths), ]
+clean_data <- clean_data[!is.na(clean_data$total_cases), ]
+
+
+agg_data <- clean_data %>% group_by(location) %>% 
+  summarise(iso_code = first(iso_code),total_deaths=max(total_deaths),total_cases=max(total_cases),
+            .groups = 'drop')
+
+mutated_data <- agg_data %>%
+  mutate(
+    case_fatality_rate = total_deaths / total_cases  # Create a new column: case_fatality_rate
+  )
+
+summary_stats <- mutated_data %>%
+  summarize(
+    avg_total_cases = mean(total_cases),
+    max_total_deaths = max(total_deaths),
+    min_case_fatality_rate = min(case_fatality_rate)
+  )
+
+# View the transformed data and summary statistics
+mutated_data
+```
+
+```{r}
+summary_stats
+```
+
+Data manipulation and the extraction of valuable insights from the information need data transformations, which are crucial in data analysis. In data transformations, the operations select, filter, modify, and summarise are frequently employed.
+
+Users may choose particular columns from a dataset using select. Filter aids in subsetting data according to particular requirements or criteria. By performing computations or modifications on already-existing variables, modification permits the generation of new variables. Data may be aggregated, summary statistics can be calculated, and new summary variables can be created using summarising. These operations offer versatility in data manipulation, enabling analysts to concentrate on pertinent variables, select data in accordance with certain criteria, produce derived variables, and summarise data for additional examination and understanding.
+
+```{r}
+fig.show='hold'
+library(ggplot2)
+library(ggmap)
+library(ggthemes)
+library(ggpubr)
+library(lubridate)
+library(forcats)
+```
+
+### Bar Chart
+```{r}
+## Bar chart
+bar_chart <- mutated_data %>%
+  top_n(10, case_fatality_rate) %>%
+  mutate(loc_case = fct_reorder(location, case_fatality_rate)) %>%
+  ggplot(aes(x = loc_case, y = case_fatality_rate)) +
+  geom_bar(stat = "identity", fill = "steelblue") +
+  ggtitle("Top 10 Countries with Highest Case Fatality Rate") +
+  xlab("Country") +
+  ylab("Case Fatality Rate") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+bar_chart
+```
+
+
+For the top 10 nations with the highest case fatality rate, the given code creates a bar chart that shows the case fatality rate. The top 10 nations from the mutated_data dataset are chosen using the top_n() function based on their case fatality rate. The bar chart is then produced using the ggplot() function.
+
+The chart’s x-axis shows the nations in descending order of case fatality rate, while the y-axis shows the case fatality rate itself. Each bar in the graph represents a different nation, and its height represents the country’s case fatality rate.
+
+The top 10 nations with the greatest case fatality rate are shown in the chart’s title. The nations are identified by the x-axis labels, while the case fatality rate is shown by the y-axis labels. The bar chart displaying the actual case fatality rate is produced using the geom_bar() function with stat = “identity”.
+
+The nations with the greatest case fatality rates are clearly shown in this bar chart. We can quickly identify the nations with comparatively greater case fatality rates by comparing the heights of the bars. This data can aid in determining the extent of the pandemic’s effects in various nations and might reveal elements causing greater death rates.
+
+
+### Scatterplot
+```{r}
+
+
+scatter_plot_data <- selected_data %>%
+  mutate(
+    case_fatality_rate = total_deaths / total_cases  # Create a new column: case_fatality_rate
+  )
+
+scatterplot <- scatter_plot_data %>%
+  ggplot(aes(x = as.numeric(total_cases), y = as.numeric(total_deaths))) +
+  geom_point(color = "steelblue") +
+  geom_smooth(method = "lm", se = FALSE, color = "red") +
+  ggtitle("Total Deaths vs Total Cases") +
+  xlab("Total Cases") +
+  ylab("Total Deaths") +
+  theme_bw()
+```
+
+```{r}
+scatterplot
+## `geom_smooth()` using formula = 'y ~ x'
+```
+With the help of the given code, it is possible to visualise the correlation between the total number of cases and deaths in the dataset by creating a scatterplot with a linear regression line. The scatterplot is produced using the ggplot() tool.
+
+The scatterplot’s x-axis displays the overall number of cases, while the y-axis displays the overall number of fatalities. The x and y coordinates of each data point in the scatterplot correspond to the total cases and total fatalities for that nation, respectively.
+
+The data points are shown as distinct, steel blue dots using the geom_point() programme. Additionally, a linear regression line is drawn on the scatterplot using the geom_smooth() function with method = “lm”. This line provides a graphic depiction of the link between the total number of cases and fatalities.
+
+The scatterplot’s caption makes it clear that it illustrates the connection between overall mortality and overall caseload. The variables being represented are made clear by the x- and y-axis labels. A white backdrop is used in the scatterplot’s design.
+
+Understanding the correlation between the overall number of cases and fatalities is the key takeaway from this scatterplot with a linear regression line. It is possible to determine whether there is a positive connection between these variables by looking at the scatterplot and the linear regression line. If the line slopes positively, it means that if there are more instances overall, there are also more fatalities overall. A negative slope, on the other hand, would suggest an inverse connection.
+
+This knowledge is essential for determining the scope and effects of the COVID-19 pandemic. It explains how variations in the number of cases may impact the number of fatalities. This data may be used by policymakers, healthcare providers, and public health authorities to track the pandemic’s development, create successful intervention plans, and allocate resources effectively. It facilitates the identification of nations or areas where an increase in cases may raise the danger of mortality and enables focused efforts to lessen the effects of the virus.
+
+```{r}
+
+
+time_chart_data <- data[!is.na(data$total_cases), ]
+time_chart_data <- time_chart_data[!is.na(time_chart_data$date), ]
+
+time_series_chart <- ggplot(time_chart_data, aes(x = date, y = total_cases)) +
+  geom_line(color = "steelblue") +
+  ggtitle("Total Cases Over Time") +
+  xlab("Date") +
+  ylab("Total Cases") +
+  theme_bw() 
+
+time_series_chart
+```
+The given code delivers a period series realistic that shows the general movement of Corona virus cases. The diagram is made utilizing the ggplot() capability, with the date displayed on the x-pivot and the absolute number of occurrences on the y-hub. The information focuses are then associated with structure a line utilizing the geom_line() capability, with each point showing the complete cases at a specific date.
+
+The y-pivot mark shows the complete cases, while the x-hub name demonstrates the date. The title of the outline demonstrates that it shows the complete occurrences through time. The chart makes it simple to perceive how the general number of occurrences has changed and advanced during the predefined time span.
+
+Understanding the Corona virus pandemic’s course is made more straightforward with the assistance of the time-series graph. Users can spot instances of a sudden rise or fall in cases, predict prospective outbreaks or waves, and evaluate the success of control measures by looking at the line’s trajectory over time.
+
+The graphic enables comparisons across several time frames, allowing for the discovery of patterns and trends in viral propagation. It can shed light on how actions like lockdowns or immunizations affect limiting the virus’s spread and reducing the number of cases.
+
+This time-series chart gives a thorough picture of all cases throughout time, making it simple to evaluate how the pandemic developed and how well the response measures worked. It assists in monitoring and analyzing the dynamics of the COVID-19 pandemic and informing decision-making processes for governments, healthcare professionals, and researchers.
+
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
+# Load required libraries
+library(rnaturalearth)
+library(plotly)
+library(dplyr)
+library(viridis)
+
+# Get a spatial dataset of country boundaries
+world_map <- ne_countries(scale = "medium", returnclass = "sf")
+
+main_data <- mutated_data
+
+merged_data <- world_map %>%
+  left_join(main_data, by = c("adm0_a3" = "iso_code"))
+
+
+ggplot(data = merged_data) +
+  geom_sf(aes(fill = case_fatality_rate, text = paste("Fatality Rate:", case_fatality_rate, "<br>Country:", name)), size = 0.1) +
+  theme_minimal() +
+  scale_fill_viridis_c(option = "A", direction = -1, trans = "log", 
+                       name = "Fatality\nRate", labels = scales::comma, end = 0.9) +
+  labs()
+```
+
+The given code produces a World Map chart that shows the values related to various nations. The values and accompanying ISO codes for each nation are contained in the data frame “data”. The “maps” library’s “map_data(”world”)” function is used to get the world map data. The globe map data and the “data” frame based on the ISO codes are combined to form the data frame “merged_data”.
+
+The “ggplot2” library is then used to build the World Map chart. The map is drawn using the “geom_map()” function, and the fill color represents the values assigned to each nation. The green to red color gradient for the fill is defined by the scale_fill_gradient() function, which also assigns “grey50” to nations without comparable values. The x-axis and y-axis labels are kept blank for simplicity, and the chart is given a title.
+
+The values of various nations are shown visually in this World Map graphic. The color gradient makes it simple to distinguish between nations with high and low values. The information provided by this graph depends on the particular values it represents. The spread and severity of the pandemic or the development of global vaccination efforts, for instance, may be seen in the graphic if the values correspond to COVID-19 cases or vaccination rates. Informing decisions about global health interventions and resource allocation, it can assist in identifying regions or nations that need greater attention or resources. The graphic may help with comparisons and emphasis regional differences, giving policymakers, academics, and public health professionals important data.
+
+```{r}
+stacked_bar_chart <- ggplot(mutated_data, aes(x = location, fill = factor(total_deaths))) +
+  geom_bar() +
+  ggtitle("Total Cases and Total Deaths by Country") +
+  xlab("location") +
+  ylab("total_deaths") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# View the stacked bar chart
+stacked_bar_chart
+```
